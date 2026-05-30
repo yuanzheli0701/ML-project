@@ -1,0 +1,19 @@
+﻿# Large data files (6.42 GB of images and masks)
+train/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
+
+# OS
+.DS_Store
+Thumbs.db

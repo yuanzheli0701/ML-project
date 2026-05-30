@@ -1,0 +1,8 @@
+Model,Score
+Logistic Regression,0.7094+/-0.0504
+KNN (k=5),0.7220+/-0.0449
+SVM (RBF),0.7178+/-0.0415
+Random Forest,0.7253+/-0.0654
+KMeans,Sil=0.1876|ARI=0.0808
+DBSCAN,Sil=0.6111|ARI=0.0814
+LDA,0.7420+/-0.0391
