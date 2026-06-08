@@ -18,3 +18,4 @@ anaconda_projects/
 # OS
 .DS_Store
 Thumbs.db
+test/
